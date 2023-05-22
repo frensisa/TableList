@@ -15,6 +15,8 @@ class MoviesTableViewCell: UITableViewCell {
     @IBOutlet weak var ratingLabel: UILabel!
     @IBOutlet weak var yearLabel: UILabel!
     
+  
+    
     
     override func awakeFromNib() {
         super.awakeFromNib()
